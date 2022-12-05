@@ -1,0 +1,5 @@
+C:\Users\phcho\OneDrive\Área de Trabalho\compilados\ConsoleApp1.exe
+C:\Users\phcho\OneDrive\Área de Trabalho\compilados\ConsoleApp1.dll
+C:\Users\phcho\OneDrive\Área de Trabalho\compilados\ConsoleApp1.deps.json
+C:\Users\phcho\OneDrive\Área de Trabalho\compilados\ConsoleApp1.runtimeconfig.json
+C:\Users\phcho\OneDrive\Área de Trabalho\compilados\ConsoleApp1.pdb

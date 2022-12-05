@@ -1,0 +1,14 @@
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Generate TPL.exe
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Generate TPL.deps.json
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Generate TPL.runtimeconfig.json
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Generate TPL.runtimeconfig.dev.json
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Generate TPL.dll
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Generate TPL.pdb
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Generate TPL.csproj.AssemblyReference.cache
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Generate TPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Generate TPL.AssemblyInfoInputs.cache
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Generate TPL.AssemblyInfo.cs
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Generate TPL.csproj.CoreCompileInputs.cache
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Generate TPL.dll
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Generate TPL.pdb
+C:\Users\phcho\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Generate TPL.genruntimeconfig.cache

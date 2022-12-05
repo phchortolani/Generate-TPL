@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RFLAgCrn7Ta2ZPfhvPTEHyPY1NR53m//5n/AD/5ZcmCSqOy3qMxz9VTxOHLjctDGvMNMinDlWDxDX3ejumGuTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phcho\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Generate TPL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phcho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
