@@ -13,7 +13,6 @@ namespace ConsoleApp1
             Sex = sex;
             Spouse = spouse;
         }
-
         public string Name { get; set; }
         public bool IsMarried { get; set; }
         public char Sex { get; set; }

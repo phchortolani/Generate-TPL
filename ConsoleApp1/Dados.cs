@@ -9,7 +9,6 @@ namespace ConsoleApp1
      
         public List<Pessoa> GetNames()
         {
-
             List<Pessoa> names = new List<Pessoa> {
                 new Pessoa("Alex Silva",'H'),
                 new Pessoa("Andressa Gomes",'M'),
